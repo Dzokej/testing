@@ -13,6 +13,8 @@ public class reading {
      */
     public reading() {
     }
+
+    public writing() {}
     
     /**
      * @param args the command line arguments
